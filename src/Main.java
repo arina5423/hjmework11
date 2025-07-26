@@ -6,7 +6,7 @@ public class Main {
         checkLeapYear(2023);
         checkLeapYear(2024);
         suggestAppVersion(0, 2014);
-        suggestAppVersion(1, 2020);
+        suggestAppVersion(1, 2015);
         System.out.println("Потребуется дней: " + calculateDeliveryDays(95));
         System.out.println("Потребуется дней: " + calculateDeliveryDays(10));
         System.out.println("Потребуется дней: " + calculateDeliveryDays(50));
